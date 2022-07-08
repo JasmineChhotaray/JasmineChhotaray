@@ -2,5 +2,5 @@
 
 I am a Data Engineer/ Data Science enthusiast. :nerd_face:  
 
-
+![Jasmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasmineChhotaray&show_icons=true&theme=radical)
 
