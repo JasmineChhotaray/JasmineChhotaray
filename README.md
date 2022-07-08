@@ -4,7 +4,7 @@
 #### `KNOWLEDGE💡`
 - ✨ I am a Data Engineer/ Data Science enthusiast. :nerd_face: 
 
-### `Skills:`
+#### `Skills:`
 
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115026129-caec5380-9eca-11eb-86cd-faef1218fd80.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115029255-7a76f500-9ece-11eb-8e98-93379f1dacfa.png"></code>
@@ -17,7 +17,7 @@
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115028658-cb3a1e00-9ecd-11eb-8c3e-3f3ff08f8bc6.png"></code>
 
 
-### `Statistics 📊:` 
+#### `Statistics 📊:` 
 ![](https://komarev.com/ghpvc/?username=JasmineChhotaray&color=blue) 
 
 ![Jasmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasmineChhotaray&show_icons=true&theme=solarized-light)
