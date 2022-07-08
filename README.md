@@ -17,6 +17,8 @@
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115028658-cb3a1e00-9ecd-11eb-8c3e-3f3ff08f8bc6.png"></code>
 
 
+### Statistics 📊: 
+![](https://komarev.com/ghpvc/?username=JasmineChhotaray&color=blue) 
 
 ![Jasmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasmineChhotaray&show_icons=true&theme=solarized-light)
 
