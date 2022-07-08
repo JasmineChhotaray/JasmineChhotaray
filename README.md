@@ -15,6 +15,8 @@
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115027614-98dbf100-9ecc-11eb-9446-d24fe878417a.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115027840-de002300-9ecc-11eb-9dc0-54c5b13f8ec1.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115028658-cb3a1e00-9ecd-11eb-8c3e-3f3ff08f8bc6.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
 
 
 #### `Statistics 📊:` 
