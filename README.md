@@ -17,6 +17,21 @@
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115028658-cb3a1e00-9ecd-11eb-8c3e-3f3ff08f8bc6.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"></code>
+<code><img height="25" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="25" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
+<code><img height="25" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></code>
+<code><img height="25" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"></code>
+<code><img height="25" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"></code>
+<code><img height="25" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
+<code><img height="25" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
+
 
 
 #### `Statistics 📊:` 
