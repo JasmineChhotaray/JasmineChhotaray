@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20there!!!&fontSize=40)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9E30DC&lines=Hello+%F0%9F%91%8B;Welcome+to+my+GitHub+profile+!!!)](https://git.io/typing-svg)
 
