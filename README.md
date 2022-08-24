@@ -65,7 +65,7 @@
 
 #### Analytics
 <p>
-    <a href="#"><img alt="Tableau" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Tableau" src ="https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat"></a>
 </p>
 
 #### `Statistics 📊:` 
