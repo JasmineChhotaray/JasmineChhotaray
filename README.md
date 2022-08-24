@@ -29,7 +29,7 @@
     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat"></a>
 </p>
 
-#### Databases, Cloud and Tools
+#### 🗄️ Databases, Cloud, Tools and Softwares
 <p>
     <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat"></a>
@@ -52,7 +52,7 @@
     <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat"></a>
 </p>
 
-#### Analytics  
+#### 💻 Analytics  
 <p>
     <a href="#"><img alt="Power BI" src ="https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Tableau" src ="https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat"></a>
