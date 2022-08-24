@@ -45,7 +45,7 @@
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=flat"></a>
-    <a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white&style=flat"></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat"></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat"></a>
